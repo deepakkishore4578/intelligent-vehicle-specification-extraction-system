@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.streamlit/secrets.toml
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
